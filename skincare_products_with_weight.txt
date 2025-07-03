@@ -1,0 +1,201 @@
+product_name	volume_ml	weight
+The Ordinary Natural Moisturising Factors + HA 30ml	30	31.5
+CeraVe Facial Moisturising Lotion SPF 25 52ml	52	54.6
+The Ordinary Hyaluronic Acid 2% + B5 Hydration Support Formula 30ml	30	31.5
+AMELIORATE Transforming Body Lotion 200ml	200	210.0
+CeraVe Moisturising Cream 454g	454	476.7
+CeraVe Moisturising Lotion 473ml	473	496.65
+CeraVe Facial Moisturising Lotion No SPF 52ml	52	54.6
+The Ordinary Natural Moisturizing Factors + HA 100ml	100	105.0
+CeraVe Smoothing Cream 177ml	177	185.85
+Clinique Moisture Surge 72 Hour Moisturiser 75ml	75	78.75
+CeraVe Moisturising Cream 50ml	50	52.5
+CeraVe Moisturising Cream 340g	340	357.0
+First Aid Beauty Ultra Repair Cream (56.7g)	7	7.35
+Avène Antirougeurs Jour Redness Relief Moisturizing Protecting Cream (40ml)	40	42.0
+Clinique Dramatically Different Moisturising Lotion+ 125ml with Pump	125	131.25
+First Aid Beauty Ultra Repair Cream (170g)	170	178.5
+Weleda Skin Food (75ml)	75	78.75
+Neutrogena Hydro Boost City Shield SPF Moisturiser	54	56.7
+Egyptian Magic All Purpose Skin Cream 118ml/4oz	118	123.9
+JASON Aloe Vera 98% Moisturising Gel Tube 113g	113	118.65
+CeraVe Moisturising Cream 177ml	177	185.85
+Embryolisse Lait-Crème Concentré (75ml)	75	78.75
+La Roche-Posay Effaclar H Moisturiser 40ml	40	42.0
+Bulldog Original Moisturiser 100ml	100	105.0
+Clinique Dramatically Different Moisturising Gel 125ml with Pump	125	131.25
+La Roche-Posay Effaclar Duo+ SPF30 40ml	40	42.0
+Avene Very High Protection B-Protect SPF 50+ 30ml	30	31.5
+Avène Tolérance Extrême Emulsion 50ml	50	52.5
+Estée Lauder DayWear Advanced Multi-Protection Anti-Oxidant Creme SPF15 N/C 50ml	50	52.5
+Embryolisse Lait-Crème Concentré (30ml)	30	31.5
+The Chemistry Brand Intense Youth Complex Hand Cream 100ml	100	105.0
+Avène Tolérance Extrême Cream 50ml	50	52.5
+La Roche-Posay Toleriane Ultra Overnight Moisturiser 40ml	40	42.0
+First Aid Beauty Hello FAB Coconut Water Cream	168	176.4
+Elemis Pro-Collagen Marine Cream SPF30 50ml	50	52.5
+Avène Aqua Gel 50ml	50	52.5
+La Roche-Posay Effaclar K(+) Anti-Blackhead Moisturiser 40ml	40	42.0
+The INKEY List Snow Mushroom	192	201.6
+Weleda Skin Food (30ml)	30	31.5
+Egyptian Magic All Purpose Skin Cream 59ml/2oz	59	61.95
+La Roche-Posay Nutritic Intense Rich 50ml	50	52.5
+Origins GinZing™ Energy-Boosting Tinted Moisturiser SPF40 50ml	50	52.5
+Estée Lauder DayWear Multi-Protection Anti-Oxidant Creme SPF 15 30ml	30	31.5
+Elizabeth Arden Eight Hour Great 8 Daily Defense Moisturizer 45ml	45	47.25
+Skin Doctors Sd White & Bright (50ml)	50	52.5
+Origins GinZing Ultra Hydrating Energy-Boosting Cream Moisturiser 50ml	50	52.5
+Elizabeth Arden Eight Hour Cream Skin Protectant (50ml)	50	52.5
+PRAI AGELESS Throat & Decolletage Crème 50ml	50	52.5
+La Roche-Posay Toleriane Sensitive Fluid Moisturiser 40ml	40	42.0
+La Roche-Posay Effaclar MAT+ 40ml	40	42.0
+Mama Mio The Tummy Rub Butter 120ml - Fragrance Free	120	126.0
+Clinique Moisture Surge 72 Hour Auto Replenishing Hydrator 50ml	50	52.5
+Elemis Pro-Collagen Marine Cream 50ml	50	52.5
+La Roche-Posay Toleriane Ultra Fluid 40ml	40	42.0
+Clinique Moisture Surge 72-Hour Auto-Replenishing Hydrator 15ml	15	15.75
+Clinique for Men Moisturising Lotion 100ml	100	105.0
+Bulldog Oil Control Moisturiser 100ml	100	105.0
+Bulldog Age Defence Moisturiser 100ml	100	105.0
+The INKEY List Multi-Biotic Moisturiser 30ml	30	31.5
+Caudalie Vinosource Moisturising Sorbet 40ml	40	42.0
+Neutrogena Refreshingly Clear Oil-Free Moisturiser 50ml	50	52.5
+The INKEY List Turmeric Moisturiser 30ml	30	31.5
+The Ordinary Vitamin C Suspension Cream 30% in Silicone 30ml	30	31.5
+La Roche-Posay Toleriane Sensitive Moisturiser 40ml	40	42.0
+Avene Hydrance Hydrating Cream 40ml	40	42.0
+Caudalie Vinoperfect Dark Spot Correcting Glycolic Night Cream 50ml	50	52.5
+L'Oréal Men Expert Pure & Matte Anti-Shine Moisturising Gel (50ml)	50	52.5
+Estée Lauder Revitalising Supreme + Global Anti-ageing Cell Power Crème 30ml	30	31.5
+The Chemistry Brand Heel Hydration Complex 100ml	100	105.0
+Elizabeth Arden Visible Difference Refining Moisture Cream (75ml)	75	78.75
+Antipodes Baptise H20 Ultra-Hydrating Water Gel 60ml	60	63.0
+L'Oréal Paris Dermo Expertise Triple Active Hydrating Night Moisturiser (50ml)	50	52.5
+Bulldog Sensitive Moisturiser 100ml	100	105.0
+Dr.Jart+ Ceramidin Cream 50ml	50	52.5
+Erno Laszlo Phelityl Night Cream 50ml"	50	52.5
+Antipodes Avocado Pear Nourishing Night Cream 60ml	60	63.0
+Fade Out ADVANCED Even Skin Tone Night Cream 50ml	50	52.5
+NIOD Hydration Vaccine Face Cream 50ml	50	52.5
+The INKEY List Peptide Moisturizer 50ml	50	52.5
+Clinique Moisture Surge Intense Skin Fortifying Hydrator 50ml	50	52.5
+Clinique Moisture Surge 72-Hour Auto Replenishing Hydrator 30ml	30	31.5
+L'Oréal Paris Hydra Genius Liquid Care Moisturiser for Normal Combination Skin 70ml 2 Pack Exclusive	70	73.5
+Murad Hydro-Dynamic™ Ultimate Moisture (50ml)	50	52.5
+Clinique Redness Solutions Daily Relief Cream 50ml	50	52.5
+DECLÉOR Hydra Floral Anti-Pollution Hydrating Rich Cream	149	156.45
+Elemis Pro-Collagen Oxygenating Night Cream 50ml	50	52.5
+Weleda Skin Food 75ml - Light	75	78.75
+Clinique Moisture Surge SPF25 Sheertint Hydrator - Universal Light Medium 40ml	40	42.0
+The INKEY List Bakuchiol Moisturiser 30ml	30	31.5
+COSRX Advanced Snail 92 All in One Cream 100ml	100	105.0
+bareMinerals Butter Drench Intense Moisurising Day Cream	57	59.85
+Eucerin Anti-Pigment SPF30 Day Cream 50ml	50	52.5
+Clinique for Men Oil-Control Moisturiser 100ml	100	105.0
+Sukin Sensitive Facial Moisturiser (125ml)	125	131.25
+Fade Out ADVANCED Even Skin Tone Day Cream SPF 25 50ml	50	52.5
+First Aid Beauty Coconut Skin Smoothie Priming Moisturiser	123	129.15
+Avène Rich Revitalizing Nourishing Cream 50ml	50	52.5
+REN Clean Skincare Evercalm Global Protection Day Cream	206	216.3
+Fade Out ADVANCED + Age Protection Even Skin Tone Day Cream SPF 25 50ml	50	52.5
+Bulldog Protective Moisturiser 100ml	100	105.0
+Alpha-H Daily Essential Moisturiser Spf50+ (50ml)	50	52.5
+Pai Skincare Chamomile and Rosehip Calming Day Cream 50ml	50	52.5
+Estée Lauder DayWear Anti-Oxidant 72H-Hydration Sorbet Creme SPF 15 50ml	50	52.5
+Liz Earle Skin Repair Light	138	144.9
+Elemis Peptide4 Plumping Pillow Facial	227	238.35
+Murad Oil and Pore Control Mattifier SPF45 PA 50ml	50	52.5
+Clinique for Men Anti-Age Moisturiser 100ml	100	105.0
+AMELIORATE Transforming Body Cream 225ml	225	236.25
+JASON Age Renewal Vitamin E 25,000iu Cream (120g)	120	126.0
+Clinique Smart SPF 15 Custom Repair Moisturiser - Dry to Combination Skin - 50ml	50	52.5
+Mama Mio The Tummy Rub Butter 120ml - Lavender and Mint	120	126.0
+Neal's Yard Remedies Vitamin E and Avocado Night Cream 50g	50	52.5
+First Aid Beauty Ultra Repair Face Moisturiser (50ml)	50	52.5
+Bioderma Hydrabio Gel Cream 40ml	40	42.0
+Estée Lauder NightWear Plus Anti-Oxidant Night Detox Crème 50ml	50	52.5
+The Ordinary 10% Agireline Solution 30ml	30	31.5
+The Ordinary Buffet Supersize Serum 60ml	60	63.0
+The Ordinary 100% Pycnogenol 5% 15ml	15	15.75
+Medik8 C-Tetra Serum 30ml	30	31.5
+Estée Lauder Advanced Night Repair Synchronized Recovery Complex II 30ml	30	31.5
+Estée Lauder Advanced Night Repair Synchronized Recovery Complex II 50ml	50	52.5
+The Ordinary Hyaluronic Acid 2% + B5 Supersize Serum 60ml	60	63.0
+The Ordinary Marine Hyaluronics 30ml	30	31.5
+Avene Hydrance Intense Serum 30ml	30	31.5
+VICHY Minéral 89 Hyaluronic Acid Hydration Booster 50ml	50	52.5
+La Roche-Posay Pure Vitamin C10 Serum 30ml	30	31.5
+PIXI Overnight Glow Serum	72	75.6
+Clinique Even Better Clinical Radical Dark Spot Corrector + Interrupter 50ml	50	52.5
+Medik8 Hydr8 B5 Serum 30ml	30	31.5
+NIP+FAB Dragons Blood Fix Serum 50ml	50	52.5
+By Terry Cellularose CC Serum 30ml (Various Shades)	30	31.5
+NIP+FAB Salicylic Fix Serum Extreme 2% 50ml	50	52.5
+NIOD Multi-Molecular Hyaluronic Complex 15ml	15	15.75
+Medik8 Crystal Retinal 6	220	231.0
+PIXI Collagen and Retinol Serum 30ml	30	31.5
+Elizabeth Arden Ceramide Capsules Advanced (90 Capsules)	271	284.55
+Elizabeth Arden Retinol Ceramide Capsules Line Erasing Night Serum - 30 Pieces (Sleeved Version)	249	261.45
+Tan-Luxe Super Glow Body Hyaluronic Self-Tan Serum 150ml	150	157.5
+La Roche-Posay Rosaliac AR Intense Serum 40ml	40	42.0
+La Roche-Posay Toleriane Ultra Cream	243	255.15
+Clinique Even Better Clinical Radical Dark Spot Corrector + Interrupter 30ml	30	31.5
+Elizabeth Arden Retinol Ceramide Capsules Line Erasing Night Serum - 60 Pieces (Sleeved Version)	176	184.8
+VICHY Minéral 89 Hyaluronic Acid Hydration Booster 75ml	75	78.75
+PIXI Glow Tonic Serum 30ml	30	31.5
+DECLÉOR Aromessence Neroli Amara Serum 15ml	15	15.75
+The Ordinary Amino Acids + B5	40	42.0
+Lancôme Advanced Génifique Eye and Lash Serum - Light Pearl 20ml	20	21.0
+REN Clean Skincare Radiance Perfection Serum	208	218.4
+Sanctuary Spa Hyaluronic Wonder Oil Serum 30ml	30	31.5
+La Roche-Posay Hydraphase Intense Serum (30ml)	30	31.5
+L'Oréal Paris Hydra Genius Liquid Care Moisturiser Combination Skin 70ml	70	73.5
+bareMinerals SkinLongevity Vital Power Infusion Serum 50ml	50	52.5
+REN Clean Skincare Evercalm Anti-Redness Serum	172	180.6
+Elizabeth Arden Advanced Ceramide Capsules Daily Youth Restoring Eye Serum (60 Pack)	234	245.7
+Estée Lauder Perfectionist Pro Multi-Defense Aqua UV Gel SPF 50 with 8 Anti-Oxidants	227	238.35
+NIP+FAB Retinol Fix Serum Extreme 50ml	50	52.5
+Origins Plantscription Anti-Aging Power Serum 50ml	50	52.5
+Estée Lauder Perfectionist Pro Rapid Brightening Treatment with Ferment2+ Vitamin C 50ml	50	52.5
+Peter Thomas Roth Retinol Fusion PM 30ml	30	31.5
+Elizabeth Arden Skin Illuminating Advanced Brightening Night Capsules (50 Capsules)	137	143.85
+Caudalie VineActiv Glow Activating Anti-Wrinkle Serum 30ml	30	31.5
+Sukin Super Greens Recovery Serum 30ml	30	31.5
+Pai Skincare Back to Life Hydration Serum 30ml	30	31.5
+OSKIA Super 16 Serum (30ml)	30	31.5
+La Roche-Posay Pigmentclar Serum 30ml	30	31.5
+Clinique Repairwear Laser Focus Smooths, Restores, Refines 50ml	50	52.5
+DECLÉOR Aromessence Green Mandarin Essential Oil Serum 15ml	15	15.75
+DECLÉOR Organic Aromessence Rose d'Orient Soothing Comfort Oil Serum	280	294.0
+Lancôme Advanced Génifique Youth Activating Serum 30ml	30	31.5
+Lancôme Advanced Génifique Youth Activating Serum 50ml	50	52.5
+Lancôme Advanced Génifique Youth Activating Serum 75ml	75	78.75
+Lancôme Advanced Génifique Youth Activating Serum 115ml	115	120.75
+COSRX AC Collection Blemish Spot Clearing Serum 40ml	40	42.0
+Holika Holika 3 Seconds Starter (Hyaluronic Acid)	95	99.75
+Dermalogica AGE Bright Clearing Serum 30ml	30	31.5
+Dr. Hauschka Night Serum 20ml	20	21.0
+Elizabeth Arden SuperStart Skin Renewal Booster 50ml	50	52.5
+Lancôme Génifique Double Drop Serum 20ml	20	21.0
+SkinCeuticals Discoloration Defense Corrective Serum 30ml	30	31.5
+Aurelia Probiotic Skincare Revitalise & Glow Serum 30ml	30	31.5
+Estée Lauder Idealist Pore Minimizing Skin Refinisher 30ml	30	31.5
+Estée Lauder Perfectionist [CP+R] Wrinkle Lifting/Firming Serum 30ml	30	31.5
+DECLÉOR Aromessence Magnolia Youthful Oil Serum 15ml 0.5oz	15	15.75
+Murad Retinol Youth Renewal Serum Travel Size	61	64.05
+Caudalie Resvératrol Lift Firming Serum (30ml)	30	31.5
+Pai Skincare Instant Calm Redness Serum Sea Aster and Wild Oat 30ml	30	31.5
+Gallinée Probiotic Youthful Serum 30ml	30	31.5
+PIXI Hydrating Milky Serum 30ml	30	31.5
+Darphin Intral Redness Relief Soothing Serum	117	122.85
+Zelens Z Hyaluron Hyaluronic Acid Complex Serum Drops 30ml	30	31.5
+Dr Dennis Gross Skincare C+Collagen Brighten and Firm Vitamin C Serum 30ml	30	31.5
+Estée Lauder Perfectionist Pro Rapid Firm + Lift Serum Hexapeptide-8 50ml	50	52.5
+GLAMGLOW Superserum 30ml	30	31.5
+Too Faced Hangover Good in Bed Ultra-Hydrating Replenishing Serum 29ml	29	30.45
+Elizabeth Arden Prevage Face Advanced Anti-Aging Serum (50ml)	50	52.5
+Liz Earle Superskin Face Serum 30ml Pump	30	31.5
+Sukin Purely Ageless Firming Serum 30ml	30	31.5
+Bobbi Brown Extra Repair Serum 30ml	30	31.5
+Indeed Labs Eysilix Serum 2 15ml	15	15.75
+Natio Advanced Lifting and Firming Serum (30ml)	30	31.5
